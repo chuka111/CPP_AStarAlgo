@@ -3,6 +3,7 @@ layout: home
 title: AStar Algorithm C++ Project
 ---
 
+## **Introduction**
 Welcome to my AStar Algorithm C++ Project , where l use the algorithm to find the cheapest way to reach the path. This project demonstrates how the algorithm calculates the the different paths and chooses the one that best fits. This project idea demonstrates the implementation and testing of the A* pathfinding algorithm in a 5x5 grid using modern C++ in Visual Studio.
 
 ### **Project Set-Up**
@@ -34,3 +35,5 @@ To help me identify appropriate test cases, I used AI assistance to suggest comm
 
 In my main file it brings all the components of the prooject together. This file starts off by running all the tests from my testprogrammer.cpp file to verify that the algorithm is functioning correctly before it starts demonstrating the A* pathfinding algorithm on the same 5x5 grid. I chose this structure so that it validates it first before anything else, then demonstrates the algorithm in action. This for me was the least complex and straightforward for me as most of the challenging work was done in the programmer.cpp and testprogrammer.cpp. I just had to make sure that everything linked up correctly and that the output displayed everything cleary for us to understand.
 
+
+## **Future Improvements**
