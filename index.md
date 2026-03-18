@@ -42,3 +42,7 @@ I chose this structure so that it validates it first before anything else, then 
 ## **Future Improvements**
 One potential improvement to this project that I would make would be to allow the grid size to be dynamic rather than fixed at 5x5 since the grid is hardcoded which limits the flexibility of the algorithm. I would also allow the user to be able to make their own grids on the UI so that they can pick where they want the obstacles on the grid rather than hardcoding the obstacles in.
 Another improvement that I make would be extending the algorithm to support diagonal movement. Currently the algorithm only is limited to four directions: up,down, left right. Allowing diagonal movement would make the pathfinding more realistic and efficient in certain scenarios.
+
+
+## **References**
+[1]"A* Search Algorithm," GeeksforGeeks. [Online]. Available: https://www.geeksforgeeks.org/dsa/a-search-algorithm/. 
