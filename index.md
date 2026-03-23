@@ -46,5 +46,10 @@ Another improvement that I make would be extending the algorithm to support diag
 
 ## **References**
 [1]"A* Search Algorithm," GeeksforGeeks. Available: https://www.geeksforgeeks.org/dsa/a-search-algorithm/. 
+
 [2] “std::vector,” cppreference. Available: https://en.cppreference.com/w/cpp/container/vector.
+
 [3] “std::priority_queue,” cppreference. Available: https://en.cppreference.com/w/cpp/container/priority_queue.
+
+[4] “C++ Namespaces,” GeeksforGeeks. Available: https://www.geeksforgeeks.org/namespace-in-c/.
+
